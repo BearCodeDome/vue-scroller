@@ -1,7 +1,8 @@
-# Vue Scroller ![version](https://img.shields.io/badge/release-%20v0.3.9%20-green.svg) ![vue](https://img.shields.io/badge/vue-%20v1.0%20-green.svg) ![gzip](https://img.shields.io/badge/gzip-%2010k%20-green.svg)
+# Vue Scroller ![version](https://img.shields.io/badge/release-%20v0.3.9%20-green.svg) ![vue](https://img.shields.io/badge/vue-%20v1.0%20-green.svg) ![gzip](https://img.shields.io/badge/gzip-%20~10kB%20-green.svg)
 
 [Vue Scroller](https://github.com/wangdahoo/vue-scroller) is a foundational component of [Vonic](https://github.com/wangdahoo/vonic) UI.
 In purpose of smooth scrolling, pull to refresh and infinite loading.
+For more awesome vue components, visit [https://wangdahoo.github.io/vonic/docs/](https://wangdahoo.github.io/vonic/docs/).
 
 ## [Demo](https://wangdahoo.github.io/vue-scroller/)
 
