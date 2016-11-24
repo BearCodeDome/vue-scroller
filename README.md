@@ -187,7 +187,7 @@ $ npm run dev
 #### Methods
 - resize :Void
 - triggerPullToRefresh :Void
-- Void finishPullToRefresh :Void
+- finishPullToRefresh :Void
 - scrollTo(x:Integer, y:Integer, animate:Boolean) :Void
 - scrollBy(x:Integer, y:Integer, animate:Boolean) :Void
 - getPosition :Object
